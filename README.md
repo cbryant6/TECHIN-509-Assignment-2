@@ -2,6 +2,7 @@ Coleman Bryant:
 
 1a.
 
+```python
 # XOR Example
 a = 0
 b = 1
@@ -9,6 +10,7 @@ result = a ^ b   # result will be 1
 
 original_message = "010"
 secret_key = "110"
+
 
 # ----- first digit -----
 first_digit_orig_msg = int(original_message[0])
